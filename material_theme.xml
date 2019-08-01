@@ -1,0 +1,18 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="highlightColorEnabled" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isHighContrast" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="useMaterialFont2" value="true" />
+    <option name="tabOpacity" value="51" />
+    <option name="settingsSelectedTab" value="3" />
+    <option name="accentColor" value="ffd866" />
+    <option name="highlightColor" value="ffd866" />
+    <option name="selectedTheme" value="MONOKAI" />
+    <option name="userId" value="2ab8e6e9:1694020a950:-8000" />
+    <option name="version" value="3.5.0.1" />
+  </component>
+</application>

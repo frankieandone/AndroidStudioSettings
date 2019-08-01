@@ -1,0 +1,16 @@
+<list display="Frankie's Quick List" description="Frequently uses actions">
+  <action id="Synchronize" />
+  <action id="QuickList.$Separator$" />
+  <action id="CleanGradleProject" />
+  <action id="MakeModule" />
+  <action id="RebuildGradleProject" />
+  <action id="InvalidateCaches" />
+  <action id="QuickList.$Separator$" />
+  <action id="com.developerphil.adbidea.action.UninstallAction" />
+  <action id="com.developerphil.adbidea.action.ClearDataAndRestartAction" />
+  <action id="com.developerphil.adbidea.action.RevokePermissionsAndRestartAction" />
+  <action id="com.developerphil.adbidea.action.GrantPermissionsAction" />
+  <action id="QuickList.$Separator$" />
+  <action id="Git.ResolveConflicts" />
+  <action id="ActivatePreviewToolWindow" />
+</list>
