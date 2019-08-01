@@ -1,5 +1,31 @@
 <keymap version="1" name="My Keymap" parent="Mac OS X 10.5+">
+  <action id="ActivateLogcatToolWindow">
+    <keyboard-shortcut first-keystroke="meta 6" />
+    <keyboard-shortcut first-keystroke="meta 4" />
+  </action>
+  <action id="ActivatePreviewToolWindow">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
+  <action id="FileChooser.NewFolder" />
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="Kotlin.NewFile">
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="QuickList.Frankie's Quick List">
+    <keyboard-shortcut first-keystroke="alt q" />
+  </action>
+  <action id="Terminal.OpenInTerminal">
+    <keyboard-shortcut first-keystroke="ctrl meta t" />
+  </action>
+  <action id="editRunConfigurations">
+    <keyboard-shortcut first-keystroke="meta 8" />
   </action>
 </keymap>
