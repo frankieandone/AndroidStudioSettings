@@ -1,12 +1,11 @@
 <keymap version="1" name="My Keymap" parent="Mac OS X 10.5+">
-  <action id="ActivateLogcatToolWindow">
-    <keyboard-shortcut first-keystroke="meta 6" />
-    <keyboard-shortcut first-keystroke="meta 4" />
-  </action>
   <action id="ActivatePreviewToolWindow">
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
   <action id="ActivateRunToolWindow" />
+  <action id="ActivateTODOToolWindow">
+    <keyboard-shortcut first-keystroke="meta 4" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta 0" />
   </action>
