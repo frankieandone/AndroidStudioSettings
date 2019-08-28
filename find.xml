@@ -1,11 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="skipResultsWithOneUsage" value="true" />
-    <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '.../app/src/main/java/com/tootoot/tootmood/fragment/deviceSettings/DeviceSettingsData.kt [app]'" />
+    <option name="defaultScopeName" value="File '.../app/src/main/java/com/tootoot/tootmood/fragment/deviceSettings/DeviceSettingsData.kt [app]'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/src/main/java/com/tootoot/tootmood/fragment/deviceSettings/DeviceSettingsData.kt [app]'" />
   </component>
 </application>
