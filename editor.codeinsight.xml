@@ -1,5 +1,5 @@
 <application>
   <component name="CodeInsightSettings">
-    <EXCLUDED_PACKAGE NAME="org.junit.Test" />
+    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
   </component>
 </application>
