@@ -9,6 +9,12 @@
           <option name="USE_SOFT_WRAPS" value="true" />
         </PlaceSettings>
       </entry>
+      <entry key="Merge">
+        <PlaceSettings>
+          <option name="SHOW_INDENT_LINES" value="true" />
+          <option name="USE_SOFT_WRAPS" value="true" />
+        </PlaceSettings>
+      </entry>
       <entry key="TestsFiledAssertions">
         <PlaceSettings>
           <option name="ENABLE_SYNC_SCROLL" value="false" />
