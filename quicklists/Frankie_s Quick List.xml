@@ -8,6 +8,7 @@
   <action id="QuickList.$Separator$" />
   <action id="com.developerphil.adbidea.action.UninstallAction" />
   <action id="com.developerphil.adbidea.action.ClearDataAndRestartAction" />
+  <action id="com.developerphil.adbidea.action.RevokePermissionsAction" />
   <action id="com.developerphil.adbidea.action.RevokePermissionsAndRestartAction" />
   <action id="com.developerphil.adbidea.action.GrantPermissionsAction" />
   <action id="QuickList.$Separator$" />
