@@ -24,6 +24,9 @@
   <action id="QuickList.Frankie's Quick List">
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
+  <action id="QuickList.Frankie's Quick List 2">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
   <action id="Terminal.OpenInTerminal">
     <keyboard-shortcut first-keystroke="ctrl meta t" />
   </action>
