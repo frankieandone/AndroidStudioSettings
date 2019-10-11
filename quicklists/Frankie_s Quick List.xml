@@ -6,6 +6,7 @@
   <action id="InvalidateCaches" />
   <action id="QuickList.$Separator$" />
   <action id="com.developerphil.adbidea.action.UninstallAction" />
+  <action id="com.developerphil.adbidea.action.ClearDataAction" />
   <action id="com.developerphil.adbidea.action.ClearDataAndRestartAction" />
   <action id="com.developerphil.adbidea.action.RevokePermissionsAction" />
   <action id="com.developerphil.adbidea.action.RevokePermissionsAndRestartAction" />
