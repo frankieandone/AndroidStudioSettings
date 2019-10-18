@@ -1,11 +1,13 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="highlightColorEnabled" value="true" />
-    <option name="isCompactStatusBar" value="true" />
+    <option name="isContrastMode" value="true" />
+    <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="overrideAccentColor" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="useMaterialFont2" value="true" />
+    <option name="indicatorStyle" value="Dot" />
     <option name="tabOpacity" value="51" />
     <option name="settingsSelectedTab" value="3" />
     <option name="accentColor" value="ffd866" />
