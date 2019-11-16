@@ -1,3 +1,5 @@
 <list display="Frankie's Quick List 2">
   <action id="CodeCleanup" />
+  <action id="SurroundWith" />
+  <action id="RerunFailedTests" />
 </list>

@@ -1,6 +1,0 @@
-<application>
-  <component name="CodeInsightSettings">
-    <option name="AUTOINSERT_PAIR_BRACKET" value="false" />
-    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
-  </component>
-</application>
