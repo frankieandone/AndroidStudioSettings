@@ -2,4 +2,5 @@
   <action id="CodeCleanup" />
   <action id="SurroundWith" />
   <action id="RerunFailedTests" />
+  <action id="SelectBuildVariant" />
 </list>
