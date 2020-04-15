@@ -21,6 +21,9 @@
     <option name="collapseInnerClasses" value="true" />
     <option name="collapseMultilineComments" value="true" />
   </component>
+  <component name="KotlinCodeInsightSettings">
+    <option name="addUnambiguousImportsOnTheFly" value="true" />
+  </component>
   <component name="OCCodeFoldingSettings">
     <option name="collapseBlockExpressions" value="true" />
     <option name="collapseMultilineComments" value="true" />
