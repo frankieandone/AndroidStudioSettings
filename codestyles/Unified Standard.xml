@@ -41,6 +41,12 @@
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
+  <XML>
+    <option name="XML_KEEP_WHITESPACES" value="true" />
+    <option name="XML_ATTRIBUTE_WRAP" value="2" />
+    <option name="XML_KEEP_LINE_BREAKS" value="true" />
+    <option name="XML_ALIGN_ATTRIBUTES" value="true" />
+  </XML>
   <codeStyleSettings language="Groovy">
     <option name="RIGHT_MARGIN" value="140" />
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
@@ -82,7 +88,11 @@
     <option name="SOFT_MARGINS" value="140" />
   </codeStyleSettings>
   <codeStyleSettings language="XML">
+    <option name="RIGHT_MARGIN" value="140" />
+    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="FORCE_REARRANGE_MODE" value="2" />
+    <option name="SOFT_MARGINS" value="140" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
     </indentOptions>
