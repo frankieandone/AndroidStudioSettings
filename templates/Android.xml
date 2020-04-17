@@ -1,0 +1,8 @@
+<templateSet group="Android">
+  <template name="rvadapter" value="&#10;import android.support.v7.widget.RecyclerView&#10;import android.view.LayoutInflater&#10;import android.view.View&#10;import android.view.ViewGroup&#10;import java.util.*&#10;&#10;class $NAME$ : RecyclerView.Adapter&lt;$NAME$Adapter.ViewHolder&gt;() {&#10;&#10;    var data: MutableList&lt;${Model}&gt; = mutableListOf()&#10;    set(value) {&#10;        field = value&#10;        notifyDataSetChanged()&#10;    }&#10;&#10;    override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder =&#10;            ViewHolder(LayoutInflater.from(parent.context).inflate(R.layout.${Item_Layout_ID}, parent, false))&#10;&#10;    override fun onBindViewHolder(holder: ViewHolder, position: Int) = holder.bind(data[position])&#10;&#10;    override fun getItemCount() = data.size&#10;&#10;    class ViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {&#10;        fun bind(item: ${Model}) = with(itemView) {&#10;            // TODO: Bind the data with View&#10;        }&#10;    }&#10;}" shortcut="SPACE" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>
