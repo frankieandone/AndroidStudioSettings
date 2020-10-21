@@ -1,47 +1,25 @@
 <code_scheme name="Default" version="173">
-  <option name="RIGHT_MARGIN" value="100" />
-  <AndroidXmlCodeStyleSettings>
-    <option name="USE_CUSTOM_SETTINGS" value="true" />
-  </AndroidXmlCodeStyleSettings>
-  <JavaCodeStyleSettings>
-    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
-    <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
-    <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
-      <value />
-    </option>
-    <option name="IMPORT_LAYOUT_TABLE">
+  <JetCodeStyleSettings>
+    <option name="PACKAGES_TO_USE_STAR_IMPORTS">
       <value>
-        <package name="android" withSubpackages="true" static="false" />
-        <emptyLine />
-        <package name="androidx" withSubpackages="true" static="false" />
-        <emptyLine />
-        <package name="com" withSubpackages="true" static="false" />
-        <emptyLine />
-        <package name="junit" withSubpackages="true" static="false" />
-        <emptyLine />
-        <package name="net" withSubpackages="true" static="false" />
-        <emptyLine />
-        <package name="org" withSubpackages="true" static="false" />
-        <emptyLine />
-        <package name="java" withSubpackages="true" static="false" />
-        <emptyLine />
-        <package name="javax" withSubpackages="true" static="false" />
-        <emptyLine />
-        <package name="" withSubpackages="true" static="false" />
-        <emptyLine />
-        <package name="" withSubpackages="true" static="true" />
-        <emptyLine />
+        <package name="java.util" alias="false" withSubpackages="false" />
+        <package name="kotlinx.android.synthetic" alias="false" withSubpackages="true" />
+        <package name="io.ktor" alias="false" withSubpackages="true" />
       </value>
     </option>
-  </JavaCodeStyleSettings>
+    <option name="PACKAGES_IMPORT_LAYOUT">
+      <value>
+        <package name="" alias="false" withSubpackages="true" />
+        <package name="java" alias="false" withSubpackages="true" />
+        <package name="javax" alias="false" withSubpackages="true" />
+        <package name="kotlin" alias="false" withSubpackages="true" />
+        <package name="" alias="true" withSubpackages="true" />
+      </value>
+    </option>
+  </JetCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
-  <XML>
-    <option name="XML_KEEP_LINE_BREAKS" value="false" />
-    <option name="XML_ALIGN_ATTRIBUTES" value="false" />
-    <option name="XML_SPACE_INSIDE_EMPTY_TAG" value="true" />
-  </XML>
   <codeStyleSettings language="JAVA">
     <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
@@ -55,7 +33,6 @@
   </codeStyleSettings>
   <codeStyleSettings language="XML">
     <option name="RIGHT_MARGIN" value="120" />
-    <option name="FORCE_REARRANGE_MODE" value="1" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
     </indentOptions>
@@ -157,5 +134,10 @@
         </section>
       </rules>
     </arrangement>
+  </codeStyleSettings>
+  <codeStyleSettings language="kotlin">
+    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="LINE_COMMENT_ADD_SPACE" value="true" />
   </codeStyleSettings>
 </code_scheme>
