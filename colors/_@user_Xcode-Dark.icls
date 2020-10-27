@@ -3,7 +3,7 @@
     <property name="created">2020-10-24T18:40:27</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.0.0.16</property>
-    <property name="modified">2020-10-25T01:54:09</property>
+    <property name="modified">2020-10-27T19:57:07</property>
     <property name="originalScheme">Xcode-Dark</property>
   </metaInfo>
   <colors>
@@ -302,6 +302,36 @@
     </option>
     <option name="KOTLIN_LABEL">
       <value />
+    </option>
+    <option name="LOGCAT_ASSERT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="9876aa" />
+      </value>
+    </option>
+    <option name="LOGCAT_DEBUG_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="6897bb" />
+      </value>
+    </option>
+    <option name="LOGCAT_ERROR_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff6b68" />
+      </value>
+    </option>
+    <option name="LOGCAT_INFO_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="6a8759" />
+      </value>
+    </option>
+    <option name="LOGCAT_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="bbbbbb" />
+      </value>
+    </option>
+    <option name="LOGCAT_WARNING_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="bbb529" />
+      </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
