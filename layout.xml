@@ -9,25 +9,19 @@
             <array>
               <ToolWindowInfo>
                 <option name="bounds">
-                  <Rectangle />
+                  <Rectangle>
+                    <option name="y" value="23" />
+                  </Rectangle>
                 </option>
                 <option name="id" value="Version Control" />
-                <option name="type" value="SLIDING" />
-              </ToolWindowInfo>
-              <ToolWindowInfo>
-                <option name="anchor" value="left" />
-                <option name="bounds">
-                  <Rectangle />
-                </option>
-                <option name="id" value="Build Variants" />
-                <option name="type" value="DOCKED" />
+                <option name="type" value="FLOATING" />
               </ToolWindowInfo>
               <ToolWindowInfo>
                 <option name="anchor" value="left" />
                 <option name="bounds">
                   <Rectangle>
                     <option name="width" value="399" />
-                    <option name="height" value="488" />
+                    <option name="height" value="985" />
                   </Rectangle>
                 </option>
                 <option name="id" value="Project" />
@@ -39,7 +33,15 @@
                 <option name="bounds">
                   <Rectangle />
                 </option>
-                <option name="id" value="Captures" />
+                <option name="id" value="Structure" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="left" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="TODO" />
                 <option name="type" value="DOCKED" />
               </ToolWindowInfo>
               <ToolWindowInfo>
@@ -55,21 +57,8 @@
                 <option name="bounds">
                   <Rectangle />
                 </option>
-                <option name="id" value="Structure" />
+                <option name="id" value="Build Variants" />
                 <option name="type" value="DOCKED" />
-              </ToolWindowInfo>
-              <ToolWindowInfo>
-                <option name="anchor" value="left" />
-                <option name="bounds">
-                  <Rectangle>
-                    <option name="y" value="489" />
-                    <option name="width" value="399" />
-                    <option name="height" value="496" />
-                  </Rectangle>
-                </option>
-                <option name="id" value="TODO" />
-                <option name="type" value="DOCKED" />
-                <option name="visible" value="true" />
               </ToolWindowInfo>
               <ToolWindowInfo>
                 <option name="anchor" value="left" />
@@ -80,11 +69,11 @@
                 <option name="type" value="DOCKED" />
               </ToolWindowInfo>
               <ToolWindowInfo>
-                <option name="anchor" value="bottom" />
+                <option name="anchor" value="left" />
                 <option name="bounds">
                   <Rectangle />
                 </option>
-                <option name="id" value="Find" />
+                <option name="id" value="Captures" />
                 <option name="type" value="DOCKED" />
               </ToolWindowInfo>
               <ToolWindowInfo>
@@ -92,7 +81,7 @@
                 <option name="bounds">
                   <Rectangle />
                 </option>
-                <option name="id" value="Build" />
+                <option name="id" value="Run" />
                 <option name="type" value="DOCKED" />
               </ToolWindowInfo>
               <ToolWindowInfo>
@@ -100,31 +89,7 @@
                 <option name="bounds">
                   <Rectangle />
                 </option>
-                <option name="id" value="Services" />
-                <option name="type" value="DOCKED" />
-              </ToolWindowInfo>
-              <ToolWindowInfo>
-                <option name="anchor" value="bottom" />
-                <option name="bounds">
-                  <Rectangle />
-                </option>
-                <option name="id" value="Catdea" />
-                <option name="type" value="DOCKED" />
-              </ToolWindowInfo>
-              <ToolWindowInfo>
-                <option name="anchor" value="bottom" />
-                <option name="bounds">
-                  <Rectangle />
-                </option>
-                <option name="id" value="Android Profiler" />
-                <option name="type" value="DOCKED" />
-              </ToolWindowInfo>
-              <ToolWindowInfo>
-                <option name="anchor" value="bottom" />
-                <option name="bounds">
-                  <Rectangle />
-                </option>
-                <option name="id" value="Logcat" />
+                <option name="id" value="Debug" />
                 <option name="type" value="DOCKED" />
               </ToolWindowInfo>
               <ToolWindowInfo>
@@ -139,6 +104,22 @@
                 <option name="id" value="Event Log" />
                 <option name="type" value="DOCKED" />
                 <option name="visible" value="true" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="bottom" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Logcat" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="bottom" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Services" />
+                <option name="type" value="DOCKED" />
               </ToolWindowInfo>
               <ToolWindowInfo>
                 <option name="anchor" value="bottom" />
@@ -159,6 +140,30 @@
                 <option name="type" value="DOCKED" />
               </ToolWindowInfo>
               <ToolWindowInfo>
+                <option name="anchor" value="bottom" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Android Profiler" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="bottom" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Build" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="bottom" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Find" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
                 <option name="anchor" value="right" />
                 <option name="bounds">
                   <Rectangle />
@@ -171,7 +176,7 @@
                 <option name="bounds">
                   <Rectangle />
                 </option>
-                <option name="id" value="Layout Inspector" />
+                <option name="id" value="Device File Explorer" />
                 <option name="type" value="DOCKED" />
               </ToolWindowInfo>
               <ToolWindowInfo>
@@ -179,7 +184,7 @@
                 <option name="bounds">
                   <Rectangle />
                 </option>
-                <option name="id" value="Device File Explorer" />
+                <option name="id" value="Layout Inspector" />
                 <option name="type" value="DOCKED" />
               </ToolWindowInfo>
               <ToolWindowInfo>
