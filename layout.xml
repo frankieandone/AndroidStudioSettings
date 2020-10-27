@@ -9,10 +9,14 @@
             <array>
               <ToolWindowInfo>
                 <option name="bounds">
-                  <Rectangle />
+                  <Rectangle>
+                    <option name="width" value="1488" />
+                    <option name="height" value="241" />
+                  </Rectangle>
                 </option>
                 <option name="id" value="Version Control" />
-                <option name="type" value="SLIDING" />
+                <option name="type" value="DOCKED" />
+                <option name="visible" value="true" />
               </ToolWindowInfo>
               <ToolWindowInfo>
                 <option name="anchor" value="left" />
@@ -27,7 +31,7 @@
                 <option name="bounds">
                   <Rectangle>
                     <option name="width" value="399" />
-                    <option name="height" value="500" />
+                    <option name="height" value="332" />
                   </Rectangle>
                 </option>
                 <option name="id" value="Project" />
@@ -62,9 +66,9 @@
                 <option name="anchor" value="left" />
                 <option name="bounds">
                   <Rectangle>
-                    <option name="y" value="501" />
+                    <option name="y" value="333" />
                     <option name="width" value="399" />
-                    <option name="height" value="508" />
+                    <option name="height" value="337" />
                   </Rectangle>
                 </option>
                 <option name="id" value="TODO" />
@@ -123,9 +127,9 @@
                 <option name="anchor" value="bottom" />
                 <option name="bounds">
                   <Rectangle>
-                    <option name="y" value="1009" />
+                    <option name="y" value="911" />
                     <option name="width" value="1488" />
-                    <option name="height" value="143" />
+                    <option name="height" value="241" />
                   </Rectangle>
                 </option>
                 <option name="id" value="Event Log" />

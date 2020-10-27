@@ -7,9 +7,12 @@
     <notification groupId="Clean artifact" displayType="NONE" />
     <notification groupId="Code style settings migration" />
     <notification groupId="Compiler" />
+    <notification groupId="demo.notifications.balloon" displayType="NONE" />
     <notification groupId="Dump Threads Group" displayType="NONE" shouldLog="false" />
     <notification groupId="Framework Detection" displayType="STICKY_BALLOON" />
     <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
     <notification groupId="Plugins updates" displayType="STICKY_BALLOON" />
+    <notification groupId="Vcs Important Messages" />
+    <notification groupId="Vcs Messages" />
   </component>
 </application>
