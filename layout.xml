@@ -148,7 +148,7 @@
                   </Rectangle>
                 </option>
                 <option name="id" value="Terminal" />
-                <option name="type" value="WINDOWED" />
+                <option name="type" value="FLOATING" />
               </ToolWindowInfo>
               <ToolWindowInfo>
                 <option name="anchor" value="bottom" />
