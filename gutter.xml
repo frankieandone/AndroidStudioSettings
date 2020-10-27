@@ -4,6 +4,8 @@
       <map>
         <entry key="com.intellij.codeInsight.ExternalAnnotationLineMarkerProvider" value="true" />
         <entry key="com.intellij.codeInsight.InferredAnnotationsLineMarkerProvider" value="true" />
+        <entry key="com.intellij.codeInsight.InferredContractAnnotationsLineMarkerProvider" value="true" />
+        <entry key="com.intellij.codeInsight.InferredNullabilityAnnotationsLineMarkerProvider" value="true" />
         <entry key="com.intellij.codeInsight.daemon.impl.IconLineMarkerProvider" value="true" />
         <entry key="com.intellij.codeInsight.daemon.impl.RecursiveCallLineMarkerProvider" value="true" />
         <entry key="com.intellij.execution.lineMarker.RunLineMarkerProvider" value="true" />

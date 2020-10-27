@@ -1,6 +1,15 @@
 <application>
-  <component name="NotificationConfiguration" showBalloons="false">
+  <component name="NotificationConfiguration">
+    <notification groupId="Android Module Importing" displayType="STICKY_BALLOON" />
+    <notification groupId="Android Property Files Updating" displayType="NONE" />
+    <notification groupId="Automatic indent detection" displayType="NONE" />
     <notification groupId="Build sync orphan modules" displayType="NONE" shouldLog="false" />
+    <notification groupId="Clean artifact" displayType="NONE" />
+    <notification groupId="Code style settings migration" />
+    <notification groupId="Compiler" />
+    <notification groupId="Dump Threads Group" displayType="NONE" shouldLog="false" />
+    <notification groupId="Framework Detection" displayType="STICKY_BALLOON" />
     <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
+    <notification groupId="Plugins updates" displayType="STICKY_BALLOON" />
   </component>
 </application>

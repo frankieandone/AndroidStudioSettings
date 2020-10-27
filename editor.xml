@@ -52,4 +52,10 @@
     <pattern icon="important" pattern="\bfixme\b.*" />
     <pattern icon="question" pattern="\bbacklog\b.*" />
   </component>
+  <component name="XmlEditorOptions">
+    <option name="automaticallyInsertRequiredAttributes" value="false" />
+    <option name="automaticallyInsertRequiredSubTags" value="false" />
+    <option name="automaticallyStartAttribute" value="false" />
+    <option name="insertQuotesForAttributeValue" value="true" />
+  </component>
 </application>
