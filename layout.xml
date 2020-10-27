@@ -9,14 +9,10 @@
             <array>
               <ToolWindowInfo>
                 <option name="bounds">
-                  <Rectangle>
-                    <option name="width" value="1488" />
-                    <option name="height" value="241" />
-                  </Rectangle>
+                  <Rectangle />
                 </option>
                 <option name="id" value="Version Control" />
-                <option name="type" value="DOCKED" />
-                <option name="visible" value="true" />
+                <option name="type" value="SLIDING" />
               </ToolWindowInfo>
               <ToolWindowInfo>
                 <option name="anchor" value="left" />
@@ -31,7 +27,7 @@
                 <option name="bounds">
                   <Rectangle>
                     <option name="width" value="399" />
-                    <option name="height" value="332" />
+                    <option name="height" value="488" />
                   </Rectangle>
                 </option>
                 <option name="id" value="Project" />
@@ -66,9 +62,9 @@
                 <option name="anchor" value="left" />
                 <option name="bounds">
                   <Rectangle>
-                    <option name="y" value="333" />
+                    <option name="y" value="489" />
                     <option name="width" value="399" />
-                    <option name="height" value="337" />
+                    <option name="height" value="496" />
                   </Rectangle>
                 </option>
                 <option name="id" value="TODO" />
@@ -81,6 +77,14 @@
                   <Rectangle />
                 </option>
                 <option name="id" value="Favorites" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="bottom" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Find" />
                 <option name="type" value="DOCKED" />
               </ToolWindowInfo>
               <ToolWindowInfo>
@@ -127,9 +131,9 @@
                 <option name="anchor" value="bottom" />
                 <option name="bounds">
                   <Rectangle>
-                    <option name="y" value="911" />
+                    <option name="y" value="985" />
                     <option name="width" value="1488" />
-                    <option name="height" value="241" />
+                    <option name="height" value="167" />
                   </Rectangle>
                 </option>
                 <option name="id" value="Event Log" />
@@ -139,10 +143,12 @@
               <ToolWindowInfo>
                 <option name="anchor" value="bottom" />
                 <option name="bounds">
-                  <Rectangle />
+                  <Rectangle>
+                    <option name="y" value="23" />
+                  </Rectangle>
                 </option>
                 <option name="id" value="Terminal" />
-                <option name="type" value="DOCKED" />
+                <option name="type" value="WINDOWED" />
               </ToolWindowInfo>
               <ToolWindowInfo>
                 <option name="anchor" value="bottom" />
@@ -150,14 +156,6 @@
                   <Rectangle />
                 </option>
                 <option name="id" value="Gradle" />
-                <option name="type" value="DOCKED" />
-              </ToolWindowInfo>
-              <ToolWindowInfo>
-                <option name="anchor" value="right" />
-                <option name="bounds">
-                  <Rectangle />
-                </option>
-                <option name="id" value="Key Promoter X" />
                 <option name="type" value="DOCKED" />
               </ToolWindowInfo>
               <ToolWindowInfo>
@@ -182,6 +180,14 @@
                   <Rectangle />
                 </option>
                 <option name="id" value="Device File Explorer" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="right" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Key Promoter X" />
                 <option name="type" value="DOCKED" />
               </ToolWindowInfo>
             </array>
