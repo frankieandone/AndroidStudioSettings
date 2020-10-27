@@ -10,11 +10,15 @@
               <ToolWindowInfo>
                 <option name="bounds">
                   <Rectangle>
-                    <option name="y" value="23" />
+                    <option name="x" value="2016" />
+                    <option name="y" value="191" />
+                    <option name="width" value="747" />
+                    <option name="height" value="266" />
                   </Rectangle>
                 </option>
                 <option name="id" value="Version Control" />
                 <option name="type" value="FLOATING" />
+                <option name="visible" value="true" />
               </ToolWindowInfo>
               <ToolWindowInfo>
                 <option name="anchor" value="left" />
@@ -108,10 +112,16 @@
               <ToolWindowInfo>
                 <option name="anchor" value="bottom" />
                 <option name="bounds">
-                  <Rectangle />
+                  <Rectangle>
+                    <option name="x" value="2014" />
+                    <option name="y" value="457" />
+                    <option name="width" value="744" />
+                    <option name="height" value="698" />
+                  </Rectangle>
                 </option>
                 <option name="id" value="Logcat" />
-                <option name="type" value="DOCKED" />
+                <option name="type" value="FLOATING" />
+                <option name="visible" value="true" />
               </ToolWindowInfo>
               <ToolWindowInfo>
                 <option name="anchor" value="bottom" />
