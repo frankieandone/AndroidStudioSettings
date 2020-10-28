@@ -3,6 +3,8 @@
   <action id="QuickList.$Separator$" />
   <action id="AndroidConnectDebuggerAction" />
   <action id="QuickList.$Separator$" />
+  <action id="ResourceExplorer.open" />
+  <action id="QuickList.$Separator$" />
   <action id="CleanGradleProject" />
   <action id="RebuildGradleProject" />
   <action id="InvalidateCaches" />
