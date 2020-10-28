@@ -11,6 +11,7 @@
     <notification groupId="Dump Threads Group" displayType="NONE" shouldLog="false" />
     <notification groupId="Framework Detection" displayType="STICKY_BALLOON" />
     <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
+    <notification groupId="IDE and Plugin Updates" />
     <notification groupId="Plugins updates" displayType="STICKY_BALLOON" />
     <notification groupId="Vcs Important Messages" />
     <notification groupId="Vcs Messages" />
