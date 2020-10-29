@@ -1,6 +1,7 @@
 <list display="Frankie's Quick List" description="Frequently uses actions">
   <action id="Android.SyncProject" />
   <action id="QuickList.$Separator$" />
+  <action id="DeviceAndSnapshotComboBox" />
   <action id="AndroidConnectDebuggerAction" />
   <action id="QuickList.$Separator$" />
   <action id="ResourceExplorer.open" />
